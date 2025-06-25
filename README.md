@@ -92,5 +92,6 @@ g++ -o rps RockPaperScissors.cpp
 
 
 📁 RockPaperScissors/
- ┣ 📄 main.cpp       ← Main source code
- ┗ 📄 README.md       ← This file
+ ┣ 📄 main.cpp                 ← Main source code
+ ┗ 📄 RPS-ScreenShot.png       ← Output ScreenShot
+ ┗ 📄 README.md                ← This file
